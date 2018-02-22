@@ -1,4 +1,3 @@
-import { connect } from 'http2';
 
 const express = require('express');
 const app = express();
